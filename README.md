@@ -56,9 +56,8 @@ from odoo.addons.qubiq_performance_trace.tools import trace_performance
     min_time=0.05,
 )
 def action_approve(self):
-    ...
+````
 
-````markdown
 ## Installation
 
 Copy the module into the private addons directory:
