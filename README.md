@@ -1,8 +1,6 @@
-[![Build Status](https://github.com/<your-user>/qubiq-performance-trace/actions/workflows/test.yml/badge.svg)](https://github.com/<your-user>/qubiq-performance-trace/actions)
-[![codecov](https://codecov.io/gh/<your-user>/qubiq-performance-trace/branch/main/graph/badge.svg)](https://codecov.io/gh/<your-user>/qubiq-performance-trace)
+[![Build Status](https://github.com/kikedev64/qubiq-performance-trace/actions/workflows/test.yml/badge.svg)](https://github.com/<your-user>/qubiq-performance-trace/actions)
+[![codecov](https://codecov.io/gh/kikedev64/qubiq-performance-trace/branch/main/graph/badge.svg)](https://codecov.io/gh/<your-user>/qubiq-performance-trace)
 [![License: OPL-1](https://img.shields.io/badge/license-OPL--1-blue.svg)](LICENSE)
-
-<!-- /!\ do not modify above this line -->
 
 # QUBIQ Performance Trace
 
