@@ -1,4 +1,3 @@
-[![Build Status](https://github.com/kikedev64/qubiq-performance-trace/actions/workflows/test.yml/badge.svg)](https://github.com/kikedev64/qubiq-performance-trace/actions)
 [![codecov](https://codecov.io/gh/kikedev64/qubiq-performance-trace/branch/main/graph/badge.svg)](https://codecov.io/gh/kikedev64/qubiq-performance-trace)
 [![License: OPL-1](https://img.shields.io/badge/license-OPL--1-blue.svg)](LICENSE)
 
